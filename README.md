@@ -6,11 +6,13 @@ The ABACABA sequence is defined as follows: the first iteration is the first let
 
 The first five iterations are as follows:
 
-a
-aba
-abacaba
-abacabadabacaba
-abacabadabacabaeabacabadabacaba
+a  
+aba  
+abacaba  
+abacabadabacaba  
+abacabadabacabaeabacabadabacaba  
+
+Source: https://www.reddit.com/r/dailyprogrammer/comments/njxq95/20210524_challenge_391_easy_the_abacaba_sequence/
 
 ## The Challenge
 Print the 26th iteration of this sequence. Because the sequence roughly doubles in length with each iteration, it will be about 2^26 (about 67.1 million characters) characters long.
